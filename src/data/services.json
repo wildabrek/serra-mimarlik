@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "İç Mimarlık",
+    "description": "Konut ve ticari alanlar için kapsamlı mekan planlama ve mimari detaylandırma hizmetleri.",
+    "order_index": 0
+  },
+  {
+    "id": "2",
+    "title": "Konsept Geliştirme",
+    "description": "Vizyonunuza, yaşam tarzınıza ve fonksiyonel gereksinimlerinize özel benzersiz tasarım konseptleri.",
+    "order_index": 1
+  },
+  {
+    "id": "3",
+    "title": "Özel Mobilya",
+    "description": "İç mekanınızı mükemmel şekilde tamamlayan özel tasarım mobilya üretimi.",
+    "order_index": 2
+  },
+  {
+    "id": "4",
+    "title": "Proje Yönetimi",
+    "description": "Zamanında teslimat ve olağanüstü kalite sağlayan uçtan uca proje koordinasyonu.",
+    "order_index": 3
+  }
+]
